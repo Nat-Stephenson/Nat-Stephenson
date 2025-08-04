@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nat-Stephenson
+- 👋 Hi, I’m Nat
 - :octocat: I am new to GitHub
 - 💡 I’m interested in building useful tools to support project/product management, and how to tell the story of data visually
 - 🌱 I’m currently learning about HTML, CSS, JavaScript (slowly) and R (very slowly) and have a real interest in analytical communities 💬 
